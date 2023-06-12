@@ -1,5 +1,11 @@
 # react-mentions
 
+## 4.5.0
+
+### Minor Changes
+
+- b40908d: Added RenderInput
+
 ## 4.4.9
 
 ### Patch Changes
